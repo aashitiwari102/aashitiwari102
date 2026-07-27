@@ -30,4 +30,4 @@ Focused on Generative AI, backend development, distributed systems, and building
 ### elsewhere
 
 <!--Portfolio: [yoursite.in](https://yoursite.in)-->
-LinkedIn: [in/aashi-tiwaril](https://www.linkedin.com/in/aashi-tiwari-/)
+LinkedIn: [in/aashi-tiwari](https://www.linkedin.com/in/aashi-tiwari-/)

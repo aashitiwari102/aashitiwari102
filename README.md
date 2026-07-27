@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**aashitiwari102/aashitiwari102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aashi 👋
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=aashitiwari102&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### whoami
+
+CS engineering student passionate about AI engineering.
+Focused on Generative AI, backend development, distributed systems, and building practical products that solve real-world problems.
+
+### working on
+
+<!-- - Some Program / School 2026
+- Role @ Company
+- Researcher @ Lab Name-->
+• AI-powered applications
+• Backend engineering
+• System design
+• Open-source projects
+
+### stack
+
+`C++` · `Python` · `JavaScript` · `LangGraph`
+
+### elsewhere
+
+<!--Portfolio: [yoursite.in](https://yoursite.in)-->
+LinkedIn: [in/aashi-tiwaril](https://www.linkedin.com/in/aashi-tiwari-/)

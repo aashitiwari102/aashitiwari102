@@ -10,22 +10,22 @@
 
 ### whoami
 
-CS engineering student passionate about AI engineering.
-Focused on Generative AI, backend development, distributed systems, and building practical products that solve real-world problems.
+Computer Science & Engineering (AI & ML) student passionate about software development.
+Focused on building full-stack web applications and solving real-world problems through practical projects.
 
 ### working on
 
 <!-- - Some Program / School 2026
 - Role @ Company
 - Researcher @ Lab Name-->
-• AI-powered applications
-• Backend engineering
-• System design
+• Full-stack web development
+• Backend development
 • Open-source projects
+• Strengthening problem-solving skills
 
 ### stack
 
-`C++` · `Python` · `JavaScript` · `LangGraph`
+`C++` · `Python` · `JavaScript` · `TypeScript` `Node.js` · `Express.js` · `MongoDB` · `Postman`
 
 ### elsewhere
 

@@ -25,7 +25,7 @@ Focused on building full-stack web applications and solving real-world problems 
 
 ### stack
 
-`C++` · `Python` · `JavaScript` · `React` · `TypeScript` `Node.js` · `Express.js` · `MongoDB` · `Postman`
+`C++` · `Python` · `JavaScript` · `React` · `TypeScript` `Node.js` · `Express.js` · `MongoDB` · `Postman` · `Docker`
 
 ### elsewhere
 
